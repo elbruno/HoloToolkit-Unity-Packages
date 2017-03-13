@@ -1,10 +1,13 @@
 # HoloToolkit-Unity-Packages
-Unity packages created from HoloToolkit Unity repository. This is based on my post on [How to use and update HoloToolkit in Unity](https://elbruno.com/2016/09/16/hololens-this-is-the-right-way-to-wotk-with-unity-packages-and-holotoolkit/)
+Unity packages created from [HoloToolkit Unity repository](https://github.com/Microsoft/HoloToolkit-Unity), to be used on Unity 3D projects for Hololens.
+
+This is based on my post on [How to use and update HoloToolkit in Unity](https://elbruno.com/2016/09/16/hololens-this-is-the-right-way-to-wotk-with-unity-packages-and-holotoolkit/)
 
 # Use the HoloToolkit Unity Package in a Unity project
 
 Create a new 3D project in Unity
-Now we must import the HoloToolkit package. Select the menu [Assets / Import Package / Custom Package]
+Now we must import the HoloToolkit package we want to use, my main suggestion is always go for the latest one.
+Select the menu [Assets / Import Package / Custom Package]
 
 ![Images/clipboard11](Images/clipboard11.png)
 
